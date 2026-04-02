@@ -1,0 +1,66 @@
+{
+  "email": "elvirajagaeva@icloud.com",
+  "timestamp": "2026-03-31T08:02:28.487878",
+  "investigation": {
+    "existence": {
+      "exists": "unknown",
+      "reason": "Status code: 503"
+    },
+    "metadata": {
+      "local_part_length": 13,
+      "has_numbers": false,
+      "has_underscore": false,
+      "has_period": false,
+      "pattern": "custom"
+    },
+    "services": [
+      {
+        "service": "iCloud",
+        "url": "https://www.icloud.com",
+        "status": "accessible"
+      },
+      {
+        "service": "Apple ID",
+        "url": "https://appleid.apple.com",
+        "status": "accessible"
+      },
+      {
+        "service": "Find My",
+        "url": "https://www.icloud.com/find",
+        "status": "accessible"
+      },
+      {
+        "service": "iCloud Mail",
+        "url": "https://www.icloud.com/mail",
+        "status": "accessible"
+      },
+      {
+        "service": "iCloud Photos",
+        "url": "https://www.icloud.com/photos",
+        "status": "accessible"
+      },
+      {
+        "service": "iCloud Drive",
+        "url": "https://www.icloud.com/drive",
+        "status": "accessible"
+      }
+    ],
+    "footprints": [
+      {
+        "site": "github.com",
+        "url": "https://github.com/search?q=elvirajagaeva@icloud.com",
+        "found": true
+      },
+      {
+        "site": "www.linkedin.com",
+        "url": "https://www.linkedin.com/search/results/all/?keywords=elvirajagaeva@icloud.com",
+        "found": true
+      },
+      {
+        "site": "twitter.com",
+        "url": "https://twitter.com/search?q=elvirajagaeva@icloud.com",
+        "found": false
+      }
+    ]
+  }
+}

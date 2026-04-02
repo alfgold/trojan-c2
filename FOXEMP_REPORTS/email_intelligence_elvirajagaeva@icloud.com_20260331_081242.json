@@ -1,0 +1,122 @@
+{
+  "email": "elvirajagaeva@icloud.com",
+  "timestamp": "2026-03-31T08:12:37.412402",
+  "report_type": "comprehensive_email_intelligence",
+  "analysis_sections": {
+    "structure_analysis": {
+      "full_email": "elvirajagaeva@icloud.com",
+      "local_part": "elvirajagaeva",
+      "domain": "icloud.com",
+      "length": 13,
+      "character_analysis": {
+        "has_numbers": false,
+        "has_underscore": false,
+        "has_period": false,
+        "has_hyphen": false,
+        "uppercase_ratio": 0.0,
+        "numeric_ratio": 0.0
+      },
+      "pattern_analysis": {
+        "detected_pattern": "firstlast",
+        "custom": false
+      },
+      "name_extraction": [],
+      "cultural_indicators": {
+        "cyrillic_chars": false,
+        "nordic_chars": false,
+        "germanic_chars": false,
+        "romance_chars": false,
+        "estimated_origin": "unknown"
+      }
+    },
+    "domain_intelligence": {
+      "domain": "icloud.com",
+      "domain_type": "apple_ecosystem",
+      "registration_info": {},
+      "security_features": {
+        "has_mx_record": true,
+        "has_spf_record": false,
+        "has_dmarc_record": false,
+        "has_dkim": false
+      },
+      "reputation_indicators": {
+        "domain_age": "unknown",
+        "category": "technology",
+        "risk_level": "very_low"
+      }
+    },
+    "breach_analysis": {
+      "email": "elvirajagaeva@icloud.com",
+      "breaches_found": [],
+      "total_breaches": 0,
+      "risk_score": "low",
+      "note": "Breach database checks require API keys for real implementation",
+      "services_checked": [
+        "HaveIBeenPwned",
+        "BreachDirectory",
+        "XposedOrNot"
+      ],
+      "email_hash": "03879a526c727bec"
+    },
+    "email_variations": {
+      "original": "elvirajagaeva@icloud.com",
+      "common_variations": [
+        "elvirajagaeva@yahoo.com",
+        "elvirajagaeva@hotmail.com",
+        "elvirajagaeva_elvirajagaeva@icloud.com",
+        "elvirajagaeva@gmail.com",
+        "elvirajagaeva.elvirajagaeva@icloud.com",
+        "elvirajagaeva@outlook.com"
+      ],
+      "typosquatting_variations": [
+        "elvirajagaeva@icloud.co",
+        "elvirajagaeva@icloud.net",
+        "elvirajagaeva@icloude.com",
+        "elvirajagaeva@icloud.org",
+        "elvirajagaeva@icloud.io",
+        "elvirajagaeva@icloud.me",
+        "elvirajagaeva@icloud.us"
+      ],
+      "similar_domains": [
+        "elvirajagaeva@me.com",
+        "elvirajagaeva@mac.com",
+        "elvirajagaeva@apple.com"
+      ]
+    },
+    "technical_metadata": {
+      "email": "elvirajagaeva@icloud.com",
+      "hashes": {
+        "md5": "d2368edae8d901b5170328800ceedbde",
+        "sha1": "dd461d37200117b42aeb357cddf983e04bfd44ff",
+        "sha256": "03879a526c727bec2412a39e22a39f840814e33b866294d2a75e57a3084b9822"
+      },
+      "encoding_info": {
+        "base64": "ZWx2aXJhamFnYWV2YUBpY2xvdWQuY29t",
+        "url_encoded": "elvirajagaeva%40icloud.com",
+        "html_encoded": "elvirajagaeva&#64;icloud&#46;com"
+      },
+      "technical_analysis": {
+        "total_length": 24,
+        "local_part_length": 13,
+        "domain_length": 10,
+        "is_valid_format": true,
+        "risk_indicators": {
+          "sequential_numbers": false,
+          "repeated_chars": false,
+          "suspicious_pattern": false
+        }
+      }
+    }
+  },
+  "intelligence_summary": {
+    "risk_assessment": "low",
+    "confidence_level": "medium",
+    "key_insights": [
+      "Domain type: apple_ecosystem"
+    ],
+    "investigation_recommendations": [
+      "Focus on Apple ecosystem services and linked accounts",
+      "Check 6 email variations for additional accounts"
+    ]
+  }
+}

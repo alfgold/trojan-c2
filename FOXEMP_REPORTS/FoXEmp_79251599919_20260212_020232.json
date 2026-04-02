@@ -1,0 +1,110 @@
+{
+  "original": "+79251599919",
+  "formatted": "+79251599919",
+  "basic_info": {
+    "valid": true,
+    "country": "Russia",
+    "country_ru": "Россия",
+    "region": "Russia",
+    "carrier": "MegaFon",
+    "carrier_ru": "МегаФон",
+    "timezone": [
+      "Asia/Almaty",
+      "Asia/Anadyr",
+      "Asia/Aqtobe",
+      "Asia/Irkutsk",
+      "Asia/Kamchatka",
+      "Asia/Krasnoyarsk",
+      "Asia/Magadan",
+      "Asia/Novosibirsk",
+      "Asia/Omsk",
+      "Asia/Sakhalin",
+      "Asia/Vladivostok",
+      "Asia/Yakutsk",
+      "Asia/Yekaterinburg",
+      "Europe/Bucharest",
+      "Europe/Moscow",
+      "Europe/Samara"
+    ],
+    "country_code": 7,
+    "national_number": 9251599919,
+    "international": "+7 925 159-99-19",
+    "e164": "+79251599919"
+  },
+  "operator_details": {
+    "prefix": "925",
+    "operator": "МегаФон",
+    "region": "Москва и область"
+  },
+  "cell_towers": [
+    {
+      "tower_id": "TOWER-001",
+      "operator": "МегаФон",
+      "region": "Москва и область",
+      "type": "GSM/GPRS",
+      "frequency": "900 MHz",
+      "note": "Approximate location based on operator prefix"
+    }
+  ],
+  "gprs_info": {
+    "status": "Unknown (requires network access)",
+    "technology": "GSM/GPRS/EDGE/3G/4G/5G",
+    "note": "Real GPRS tracking requires SS7 access or carrier cooperation",
+    "legal_note": "GPRS tracking is restricted and requires legal authorization"
+  },
+  "hlr_apis": [
+    {
+      "name": "HLRLookup.com",
+      "url": "https://www.hlrlookup.com/lookup/+79251599919"
+    },
+    {
+      "name": "Numverify",
+      "url": "http://apilayer.net/api/validate"
+    },
+    {
+      "name": "Twilio Lookup",
+      "url": "https://lookups.twilio.com/v1/PhoneNumbers/"
+    }
+  ],
+  "mcc_mnc": {
+    "mcc": 250,
+    "mnc": 2
+  },
+  "google_geolocation": {
+    "api": "Google Geolocation API",
+    "url": "https://www.googleapis.com/geolocation/v1/geolocate?key=YOUR_API_KEY",
+    "method": "POST",
+    "data": "Cell tower data (MCC, MNC, LAC, CID)",
+    "accuracy": "10-100 meters",
+    "get_key": "https://console.cloud.google.com/apis/credentials"
+  },
+  "unwiredlabs": {
+    "status": "No data",
+    "note": "Cell tower not in database"
+  },
+  "combain": {
+    "api": "Combain CPS",
+    "url": "https://cps.combain.com/",
+    "accuracy": "10-100 meters",
+    "get_key": "https://combain.com/"
+  },
+  "mylnikov": {
+    "api": "Mylnikov.org",
+    "url": "https://api.mylnikov.org/geolocation/cell",
+    "status": "FREE - No API key required",
+    "note": "Requires cell tower data (MCC, MNC, LAC, CID)"
+  },
+  "osint_sources": {
+    "Truecaller": "https://www.truecaller.com/search/ru/+79251599919",
+    "GetContact": "https://getcontact.com/ru/search?number=+79251599919",
+    "Sync.ME": "https://sync.me/search/?number=+79251599919",
+    "Yandex": "https://yandex.ru/search/?text=+79251599919",
+    "Google": "https://www.google.com/search?q=+79251599919",
+    "VK": "https://vk.com/search?c[section]=people&c[q]=+79251599919"
+  },
+  "social_networks": {
+    "WhatsApp": "https://wa.me/79251599919",
+    "Telegram": "https://t.me/79251599919",
+    "Viber": "viber://chat?number=79251599919"
+  }
+}

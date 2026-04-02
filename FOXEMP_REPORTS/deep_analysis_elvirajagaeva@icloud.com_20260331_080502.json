@@ -1,0 +1,57 @@
+{
+  "email": "elvirajagaeva@icloud.com",
+  "timestamp": "2026-03-31T08:05:02.171373",
+  "analysis_type": "deep_footprint_analysis",
+  "platforms": {
+    "github": {
+      "platform": "GitHub",
+      "email": "elvirajagaeva@icloud.com",
+      "findings": {
+        "users": [],
+        "repositories": [],
+        "detailed_profiles": []
+      }
+    },
+    "linkedin": {
+      "platform": "LinkedIn",
+      "email": "elvirajagaeva@icloud.com",
+      "findings": {
+        "raw_matches": [],
+        "email_present": true,
+        "potential_names": [
+          "Sign in"
+        ]
+      }
+    },
+    "twitter": {
+      "platform": "Twitter",
+      "email": "elvirajagaeva@icloud.com",
+      "findings": {
+        "handles_found": [
+          "keyframes",
+          "twitter"
+        ],
+        "email_mentioned": false,
+        "profiles_found": [
+          "imprint",
+          "en"
+        ]
+      }
+    }
+  },
+  "correlation": {
+    "cross_platform_patterns": [],
+    "common_usernames": {},
+    "potential_identity_links": []
+  },
+  "summary": {
+    "total_platforms_with_footprints": 1,
+    "platforms_found": [
+      "LinkedIn"
+    ],
+    "identity_confidence": "low",
+    "key_findings": [
+      "LinkedIn: Email present in search results"
+    ]
+  }
+}

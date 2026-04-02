@@ -1,0 +1,87 @@
+{
+  "original": "+7964641640",
+  "formatted": "+7964641640",
+  "basic_info": {
+    "valid": false,
+    "country": "",
+    "country_ru": "",
+    "region": "",
+    "carrier": "",
+    "carrier_ru": "",
+    "timezone": [
+      "Etc/Unknown"
+    ],
+    "country_code": 7,
+    "national_number": 964641640,
+    "international": "+7 964641640",
+    "e164": "+7964641640"
+  },
+  "operator_details": {
+    "prefix": "964",
+    "operator": "Unknown",
+    "region": "Unknown"
+  },
+  "cell_towers": [
+    {
+      "tower_id": "TOWER-001",
+      "operator": "Unknown",
+      "region": "Unknown",
+      "type": "GSM/GPRS",
+      "frequency": "900 MHz",
+      "note": "Approximate location based on operator prefix"
+    }
+  ],
+  "gprs_info": {
+    "status": "Unknown (requires network access)",
+    "technology": "GSM/GPRS/EDGE/3G/4G/5G",
+    "note": "Real GPRS tracking requires SS7 access or carrier cooperation",
+    "legal_note": "GPRS tracking is restricted and requires legal authorization"
+  },
+  "hlr_apis": [
+    {
+      "name": "HLRLookup.com",
+      "url": "https://www.hlrlookup.com/lookup/+7964641640"
+    },
+    {
+      "name": "Numverify",
+      "url": "http://apilayer.net/api/validate"
+    },
+    {
+      "name": "Twilio Lookup",
+      "url": "https://lookups.twilio.com/v1/PhoneNumbers/"
+    }
+  ],
+  "google_geolocation": {
+    "api": "Google Geolocation API",
+    "url": "https://www.googleapis.com/geolocation/v1/geolocate?key=YOUR_API_KEY",
+    "method": "POST",
+    "data": "Cell tower data (MCC, MNC, LAC, CID)",
+    "accuracy": "10-100 meters",
+    "get_key": "https://console.cloud.google.com/apis/credentials"
+  },
+  "combain": {
+    "api": "Combain CPS",
+    "url": "https://cps.combain.com/",
+    "accuracy": "10-100 meters",
+    "get_key": "https://combain.com/"
+  },
+  "mylnikov": {
+    "api": "Mylnikov.org",
+    "url": "https://api.mylnikov.org/geolocation/cell",
+    "status": "FREE - No API key required",
+    "note": "Requires cell tower data (MCC, MNC, LAC, CID)"
+  },
+  "osint_sources": {
+    "Truecaller": "https://www.truecaller.com/search/ru/+7964641640",
+    "GetContact": "https://getcontact.com/ru/search?number=+7964641640",
+    "Sync.ME": "https://sync.me/search/?number=+7964641640",
+    "Yandex": "https://yandex.ru/search/?text=+7964641640",
+    "Google": "https://www.google.com/search?q=+7964641640",
+    "VK": "https://vk.com/search?c[section]=people&c[q]=+7964641640"
+  },
+  "social_networks": {
+    "WhatsApp": "https://wa.me/7964641640",
+    "Telegram": "https://t.me/7964641640",
+    "Viber": "viber://chat?number=7964641640"
+  }
+}
